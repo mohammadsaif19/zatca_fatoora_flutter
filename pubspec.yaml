@@ -1,0 +1,26 @@
+name: zatca_fatoora_flutter
+description: A package to generate ZATCA simplified e-invoice (fatoora) compatible QR code for Flutter.
+version: 1.0.0
+repository: https://github.com/mohammadsaif19/zatca_fatoora_flutter
+homepage: https://github.com/mohammadsaif19/zatca_fatoora_flutter
+issue_tracker: https://github.com/mohammadsaif19/zatca_fatoora_flutter/issues
+
+environment:
+  sdk: ">=2.19.5 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  pretty_qr_code: ^2.0.3
+
+  # qr_flutter:
+  #   git: https://github.com/mohammadsaif19/qr.flutter.git
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
