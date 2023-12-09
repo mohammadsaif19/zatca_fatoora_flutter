@@ -6,7 +6,7 @@ homepage: https://github.com/mohammadsaif19/zatca_fatoora_flutter
 issue_tracker: https://github.com/mohammadsaif19/zatca_fatoora_flutter/issues
 
 environment:
-  sdk: ">=2.19.5 <3.0.0"
+  sdk: ">=2.19.5 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:

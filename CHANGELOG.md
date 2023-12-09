@@ -1,3 +1,3 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+- This is initial release of a package to generate ZATCA simplified e-invoice (fatoora) compatible QR code for Flutter.

@@ -1,6 +1,6 @@
 ## Zatca e-invoice (fatoora) QR code generator in Flutter
 
-<img src="./assets//images/zatca.jpg" alt="UniPay Arabic by Saif">
+<img src="https://raw.githubusercontent.com/mohammadsaif19/zatca_fatoora_flutter/main/assets/images/zatca.jpg" alt="Zatca e-invoice by Saif">
 
 This package strictly follows the guidelines provided by the Zatca authority to generate a simplified e-invoice (fatoora) QR code to print into the Bill/invoice of your business.
 
@@ -14,7 +14,7 @@ For more info kindly visit the official [Zatca Docs.](https://zatca.gov.sa/en/E-
 
 ## Usage
 
-For full example of the code, kindly have a look here [/example](https://pub.dev/packages/zatca_fatoora_flutter/example)` folder.
+For full example of the code, kindly have a look here [/example](https://pub.dev/packages/zatca_fatoora_flutter/example) folder.
 
 ### Simple QR code:
 
